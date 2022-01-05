@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd656afb-727c-4efc-90f8-e21479861574" name="Changes" comment="&quot;imperative approach vs declarative approach&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/functionalinterface/_Consumer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/functionalinterface/_Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/functionalinterface/_Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/functionalinterface/_Consumer$Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/functionalinterface/_Consumer$Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/functionalinterface/_Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/functionalinterface/_Consumer.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
