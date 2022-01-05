@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd656afb-727c-4efc-90f8-e21479861574" name="Changes" comment="&quot;imperative approach vs declarative approach&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/functionalinterface/_Predicate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/functionalinterface/_Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/functionalinterface/_Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functionalinterface/_Consumer$Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/functionalinterface/_Consumer$Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functionalinterface/_Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/functionalinterface/_Consumer.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +86,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application._Consumer">
+  <component name="RunManager" selected="Application._Predicate">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="imperative.Main" />
       <module name="javafunctional" />
@@ -128,8 +126,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_Predicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalinterface._Predicate" />
+      <module name="javafunctional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functionalinterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._Predicate" />
         <item itemvalue="Application._Consumer" />
         <item itemvalue="Application._Function" />
         <item itemvalue="Application.Main" />
