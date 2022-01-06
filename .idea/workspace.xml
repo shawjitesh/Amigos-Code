@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd656afb-727c-4efc-90f8-e21479861574" name="Changes" comment="&quot;imperative approach vs declarative approach&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/_Stream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/_Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/_Stream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +192,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="Amigos-Code/develop" />
                       </list>
                     </value>
                   </entry>

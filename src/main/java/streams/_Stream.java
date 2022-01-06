@@ -10,8 +10,7 @@ public class _Stream {
                 new Person("Jitesh", MALE),
                 new Person("Asmita", FEMALE),
                 new Person("Jitu", MALE),
-                new Person("Sonu", FEMALE),
-                new Person("Titu", PREFER_NOT_TO_SAY)
+                new Person("Sonu", FEMALE)
         );
 
         System.out.println("Genders:");
@@ -29,6 +28,18 @@ public class _Stream {
                 .map(person -> person.name)
                 .mapToInt(String::length)
                 .forEach(System.out::println);
+
+        System.out.println("Is every person MALE: " +
+                people.stream()
+                        .allMatch(person -> MALE.equals(person.gender)));
+
+        System.out.println("Is any person FEMALE: " +
+                people.stream()
+                        .anyMatch(person -> FEMALE.equals(person.gender)));
+
+        System.out.println("Is none of the person PREFER_NOT_TO_SAY: " +
+                people.stream()
+                        .noneMatch(person -> PREFER_NOT_TO_SAY.equals(person.gender)));
     }
 
     static class Person {
