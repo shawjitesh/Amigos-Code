@@ -35,7 +35,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="develop" />
-                    <option name="lastUsedInstant" value="1640859391" />
+                    <option name="lastUsedInstant" value="1641482840" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -190,7 +190,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Amigos-Code/develop" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
