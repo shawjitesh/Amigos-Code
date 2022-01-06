@@ -1,2 +1,2 @@
-# Amigos-Code
+# AmigosCode-javafunctional
 Java Functional Programming
