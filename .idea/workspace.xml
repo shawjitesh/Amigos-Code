@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd656afb-727c-4efc-90f8-e21479861574" name="Changes" comment="&quot;imperative approach vs declarative approach&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/combinatorpattern/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/combinatorpattern/CustomerRegistrationValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/combinatorpattern/CustomerValidatorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/combinatorpattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/finalsection/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -90,7 +87,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="combinatorpattern.Main" />
       <module name="javafunctional" />
@@ -104,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="optionals.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalsection.Main" />
       <module name="javafunctional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="optionals.*" />
+          <option name="PATTERN" value="finalsection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_Predicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalinterface._Predicate" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="optionals.Main" />
       <module name="javafunctional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functionalinterface.*" />
+          <option name="PATTERN" value="optionals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application._Stream" />
         <item itemvalue="Application._Supplier" />
-        <item itemvalue="Application._Predicate" />
       </list>
     </recent_temporary>
   </component>
