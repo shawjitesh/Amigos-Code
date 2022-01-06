@@ -3,7 +3,7 @@ package finalsection;
 import java.util.Optional;
 import java.util.function.Consumer;
 
-public class Main {
+public class Callbacks {
     public static void main(String[] args) {
         hello("Asmita", "Biswas", null);
         hello("Jitesh", null, value -> System.out.println("No last name provided for " + value));
