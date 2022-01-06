@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd656afb-727c-4efc-90f8-e21479861574" name="Changes" comment="&quot;imperative approach vs declarative approach&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/optionals/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,20 +79,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaoptionals" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application._Stream">
-    <configuration name="_Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalinterface._Consumer" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="optionals.Main" />
       <module name="javafunctional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functionalinterface.*" />
+          <option name="PATTERN" value="optionals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalinterface._Function" />
+    <configuration name="_Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalinterface._Consumer" />
       <module name="javafunctional" />
       <extension name="coverage">
         <pattern>
@@ -153,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application._Stream" />
         <item itemvalue="Application._Supplier" />
         <item itemvalue="Application._Predicate" />
         <item itemvalue="Application._Consumer" />
-        <item itemvalue="Application._Function" />
       </list>
     </recent_temporary>
   </component>
